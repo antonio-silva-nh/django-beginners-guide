@@ -5,7 +5,7 @@ import sys
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "myproject.settings")
 
-    
+    # Changing
     i = 1
     i = 1
     # Example Database Password
